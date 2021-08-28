@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+    background-color:black;
+    font-family:arial;
+    color:white;
+}
+h1{color:grey;font-family:verdana;
+text-align: center;
+}
+.maindiv{
+    
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+    width: 50%; 
+}
+.inputdiv{
+    margin: auto;
+    width: 50%;    /*Used for Centring the Input elements */
 
-
+}
+.label{
+    width: 30%;
+    display: inline-block;   /* Displayed as inline-block element so that it displays as Inline(not full width as block) and custom width can be set*/
+}
