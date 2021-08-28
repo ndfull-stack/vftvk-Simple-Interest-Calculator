@@ -21,6 +21,6 @@ text-align: center;
 
 }
 .label{
-    width: 40%;
+    width: 35%;
     display: inline-block;   /* Displayed as inline-block element so that it displays as Inline(not full width as block) and custom width can be set*/
 }
